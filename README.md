@@ -142,4 +142,4 @@ The analysis includes:
 - Suggest data-driven marketing strategies for insurance companies.
 
 ## Contributors
-- [Erikas Leonenka](https://github.com/Vixamon)
+- [Erikas Leonenka](https://github.com/eleonen)
